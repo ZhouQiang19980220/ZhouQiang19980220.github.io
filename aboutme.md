@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Welcome to my blog! I’m Tenicaty Wick, a passionate learner and enthusiast in technology, work, and life. This blog is my space to share insights, experiences, and stories from my journey. Whether it’s exploring new tech trends, reflecting on work experiences, or capturing moments from my everyday life, I hope to inspire and connect with others through my writing. Feel free to explore, engage, and share your thoughts. Thank you for visiting!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you have any questions or just want to connect, don’t hesitate to reach out. Happy reading!
