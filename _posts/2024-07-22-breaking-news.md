@@ -1,10 +1,7 @@
 ---
 layout: post
-title: My first blog
+title: Learning English
 # subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/pikachu-ico.jpg
 tags: [English]
 author: Tenacity Wick
 ---
