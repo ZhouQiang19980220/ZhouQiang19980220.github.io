@@ -22,9 +22,10 @@ author: Tenacity Wick
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://zhouqiang19980220.github.io/"
+   - Beautiful Jekyll: "https://beautifuljekyll.com"
+   - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://zhouqiang19980220.github.io/"
+  Tags: "https://zhouqiang19980220.github.io/tags"
 
 ################
 # --- Logo --- #
