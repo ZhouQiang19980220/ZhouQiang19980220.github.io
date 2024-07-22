@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title of the Article
+title: Breaking News Templete
 tags: [English, BreakingNews]
 author: Tenacity Wick
 ---
