@@ -12,4 +12,4 @@ author: Tenacity Wick
 - [Breaking News Tags](https://zhouqiang19980220.github.io/tags/#books)
 
 # Dictionary
-- [cambridge dictionary](https://dictionary.cambridge.org)
+- [Cambridge Dictionary](https://dictionary.cambridge.org)
