@@ -5,8 +5,8 @@ tags: [Tool]
 author: Tenacity Wick
 ---
 # Most Frequently Used Websit
-- [![Github](https://github.com/favicon.ico)](https://github.com/) [Github](https://github.com/)
-- [Fei Shu Doc](https://i1axs4z3ra.feishu.cn/drive/home/)
+- [Github](https://github.com/)
+- [Fei Shu](https://i1axs4z3ra.feishu.cn/drive/home/)
 - [Personal Page](https://zhouqiang19980220.github.io/)
 
 # Learning English
