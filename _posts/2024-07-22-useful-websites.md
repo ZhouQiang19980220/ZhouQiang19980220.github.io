@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Useful Websites
-tags: [Tool]
+tags: [Tool, Collections]
 author: Tenacity Wick
 ---
 # Most Frequently Used Websit
