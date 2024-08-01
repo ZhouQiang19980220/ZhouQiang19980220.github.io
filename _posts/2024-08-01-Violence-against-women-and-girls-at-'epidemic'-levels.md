@@ -20,24 +20,14 @@ The report was issued by the UK's National Police Chiefs' Council and the Colleg
 
 1. misogyny(厌女症)
 - feelings of hating women, or the belief that men are much better than women
-
 2. the tip of the iceberg(冰山一角)
-
 - a small, noticeable part of a problem, the total size of which is really much greater
-
 3. staggering
-
 - very shocking and surprising
 - It costs a **staggering** $50,000 per week to keep the museum open to the public.
-
 4. perpetrator
-
 - someone who has committed a crime or a violent or harmful act
-
 5. harassment(骚扰)
-
 - behaviour that annoys or upsets someone
-
 6. stalking(尾随；跟踪)
-
 - the crime of illegally following and watching someone over a period of time
