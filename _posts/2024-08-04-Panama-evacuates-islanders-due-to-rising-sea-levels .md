@@ -18,16 +18,11 @@ Gardi Sugdub has been home to the indigenous Guna people for generations. The ov
 # Vocabulary
 
 1. evacuates
-
 - to move people from a dangerous place to somewhere safe
 - The police **evacuated** the village shortly before the explosion.
-
 2. inhabitants
-
 - a person or animal that lives in a particular place
 - a city of five million **inhabitants**.
-
 3. vacate
-
 - to leave a room, building, chair, etc. so that it is available for other people
 - Hotel guests are requested to **vacate** their rooms by noon.
