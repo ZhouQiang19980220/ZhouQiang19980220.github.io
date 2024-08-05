@@ -9,6 +9,7 @@ author: Tenacity Wick
 
 - [Breaking News English](https://breakingnewsenglish.com/)
 - [Breaking News Tags](https://zhouqiang19980220.github.io/tags/#books)
+- [Cambridge Dictionary](https://dictionary.cambridge.org/)
 
 # Title of the Article
 
