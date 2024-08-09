@@ -10,7 +10,7 @@ author: Tenacity Wick
 - [Breaking News English](https://breakingnewsenglish.com/)
 - [Breaking News Tags](https://zhouqiang19980220.github.io/tags/#books)
 
-# UK doctors to treat people suffering from eco-anxiety
+# [UK doctors to treat people suffering from eco-anxiety](https://breakingnewsenglish.com/2407/240722-eco-anxiety.html)
 
 **Eco-anxiety** is a medical condition affecting **an increasingly larger number of** young people worldwide. Doctors in the UK have been advised to raise the topic of climate change during consultations with patients. New guidelines encourage doctors to discuss the dangers of global warming. A health consultation might now consist of a medical diagnosis, along with advice on how to reduce **carbon footprints**. It might also include help on how to deal with eco-anxiety. The Daily Mail newspaper cited **critics** of the guidelines who called them "seriously unethical". They said: "Doctors should spend their precious time treating patients rather than lecturing them on 'politicised issues'."
 
@@ -34,7 +34,7 @@ The United Nations has described eco-anxiety as "an emergency crisis hidden **in
 5. displacement(背井离乡)
 - the situation in which people are forced to leave the place where they normally live
 - The recent famine in these parts has caused the **displacement** of tens of thousands of people.
-6. traumatic
+6. traumatic：/trɔːˈmæt.ɪk/
 - causing severe and lasting emotional shock and pain
 - Some of the most disturbed children had witnessed really **traumatic** things, such as rape and murder.
 
