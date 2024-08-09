@@ -21,7 +21,7 @@ Salt is important for our health. However, too much of it can cause **cardiovasc
 1. cut down
 - to do or use less of something
 - She used to work 50 hours a week, but recently she's **cut down**.
-2. cardiovascular
+2. cardiovascular：/ˌkɑː.di.əʊˈvæs.kjə.lər/
 - relating to the heart and blood vessels
 3. 一些常见的国际组织
 - World Health Organization(世界卫生组织)
