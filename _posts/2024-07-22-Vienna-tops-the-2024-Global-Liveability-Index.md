@@ -21,13 +21,13 @@ The EIU said the average score for liveability in cities around the globe rose "
 1. top(位居榜首)
 - to be the most important, most successful, etc.:
 - **top the charts**: The song topped the charts (= sold the largest number of recordings) for five weeks.
-2. Vienna(维也纳)
+2. Vienna(维也纳)：/viˈen.ə/
 - the capital city of Austria, situated in the northeastern part of the country
 3. Liveability(宜居程度)
 - the degree to which a place is suitable or good for living in
 - The city needs a proper urban plan to retain its **liveability**.
 - **liveable**: It was rated the most **livable** city in the States.
-4. accolade(嘉奖)
+4. accolade(嘉奖)：/ˈæk.ə.leɪd/
 - praise and approval
 - **earn an accolade**: She has sold millions of records(唱片) and earned numerous awards and **accolades** over a 30-year career.
 5. infrastructure(基础设施)
@@ -44,7 +44,7 @@ The EIU said the average score for liveability in cities around the globe rose "
 8. legacy
 - money or property that you receive from someone after they die
 - An elderly cousin had left her a small **legacy**.
-9. held back(退缩)
+9. hold back(退缩)
 - to not do something, often because of fear or because you do not want to make a bad situation worse:
 10. geopolitical(地缘政治的)
 - connected with political activity as influenced by the physical features of a country or area, or with the study of the way a country's size, position, etc. influence its power and its relationships with other countries
